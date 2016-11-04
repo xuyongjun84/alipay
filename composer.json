@@ -1,14 +1,13 @@
 {
-    "name": "peterxu/alipay",
-    "description": "alipay",
+    "name": "wanpinghui/alipay",
+    "description": "wanpinghi, alipay",
     "license": "MIT",
     "require": {
-        "php": "^5.3.3 || ^7.0"
+        "php": "^5.3.3"
     },
     "autoload": {
         "psr-4": {
-            "peterxu\\alipay\\": ""
+            "alipay\\": ""
         }
     }
-
 }
