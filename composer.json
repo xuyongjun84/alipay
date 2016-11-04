@@ -1,6 +1,6 @@
 {
     "name": "wanpinghui/alipay",
-    "description": "wanpinghi, alipay",
+    "description": "wanpinghui, alipay",
     "license": "MIT",
     "require": {
         "php": "^5.3.3"
