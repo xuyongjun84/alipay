@@ -1,7 +1,14 @@
 {
     "name": "peterxu/alipay",
     "description": "alipay",
+    "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "peterxu\\alipay\\": ""
+        }
     }
+
 }
